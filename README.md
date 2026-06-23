@@ -1,13 +1,7 @@
-# 王紫玫｜空白画布急诊室 H5
+# 王紫玫｜H5作品集 V12
 
 作品集链接：https://lacrima13.github.io/wangzimei-h5-portfolio/
 
 作品链接：https://lacrima13.github.io/wangzimei-h5-portfolio/work.html
 
-文件说明：
-- `index.html`：作品集首页
-- `work.html`：主交互作品页
-- `project.html`：备用作品页
-- `404.html`：路径错误时返回首页
-
-部署方式：GitHub Pages → Deploy from a branch → main → /root
+版本说明：V12 将拖拽素材升级为“模块拼装系统”。四个模块拖入海报后会生成不同视觉层，并实时更新完整度、品牌识别、发布准备三个指标。

@@ -1,14 +1,6 @@
-# 王紫玫｜空白画布急诊室 H5
+# 王紫玫｜空白画布急诊室 H5 V16
 
-作品集链接：https://lacrima13.github.io/wangzimei-h5-portfolio/
+- 作品集链接：https://lacrima13.github.io/wangzimei-h5-portfolio/
+- 作品链接：https://lacrima13.github.io/wangzimei-h5-portfolio/work.html
 
-作品链接：https://lacrima13.github.io/wangzimei-h5-portfolio/work.html
-
-## 文件说明
-- index.html：作品集首页
-- work.html：主交互作品页
-- project.html：备用作品页
-- 404.html：路径错误时返回首页
-
-## 部署方式
-GitHub Pages → Deploy from a branch → main → /root
+V16 修复：恢复返回作品集按钮、模块撤销/清空、单个模块移除，并优化作品集首页文案。

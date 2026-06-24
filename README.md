@@ -1,7 +1,14 @@
-# 王紫玫｜空白画布急诊室 H5 V14
-
-基于 V12 模块拼装版精修：保留原有视觉风格和功能结构，增强作品集与作品页的大图形动态、海报内部呼吸动效、模块发光反馈和鼠标微视差。
+# 王紫玫｜空白画布急诊室 H5
 
 作品集链接：https://lacrima13.github.io/wangzimei-h5-portfolio/
 
 作品链接：https://lacrima13.github.io/wangzimei-h5-portfolio/work.html
+
+## 文件说明
+- index.html：作品集首页
+- work.html：主交互作品页
+- project.html：备用作品页
+- 404.html：路径错误时返回首页
+
+## 部署方式
+GitHub Pages → Deploy from a branch → main → /root
